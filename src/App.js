@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p className="text-gray-500 text-sm italic">
+        React and Tailwind CSS in action
+      </p>
         <a
           className="App-link"
           href="https://reactjs.org"
